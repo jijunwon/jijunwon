@@ -54,7 +54,7 @@ Clients ──HTTPS:443──▶ Nginx ──proxy_pass:8080──▶ Spring Boo
 - **GitHub Actions** — main 브랜치 통합 시 자동 빌드·배포
 - **CloudWatch** — 서버 지표 수집 및 경보
 
-> 상세 구성은 [ARCHITECTURE.md](./ARCHITECTURE.md) 참고
+> 상세 구성은 [ARCHITECTURE.md](./TetrisARCHITECTURE.md) 참고
 
 ## 기술 선택 이유
 
