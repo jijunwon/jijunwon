@@ -84,11 +84,11 @@ Clients ──HTTPS:443──▶ Nginx ──proxy_pass:8080──▶ Spring Boo
 
 #### 테마
 
-<img src="./docs/images/Thema.gif" alt="light" width="280" />
+<img src="./docs/images/Thema.gif" alt="light" width="560" />
 
 #### 계정 생성 및 로그인
 
-<img src="./docs/images/SignIn.gif" alt="signin" width="900" />
+<img src="./docs/images/SignIn.gif" alt="signin" width="560" />
 
 ## API 설계
 
@@ -276,7 +276,7 @@ Nginx에 IP 단위 Rate Limit을 적용하고, 한도를 초과하면 `429 Too M
 
 ## 아키텍처
 
-<img src="./docs/images/CounselingArchitecture.png" alt="AI 상담 아키텍처" width="520" />
+<img src="./docs/images/CounselingArchitecture.png" alt="AI 상담 아키텍처" width="560" />
 
 ## 기술 스택
 
@@ -302,11 +302,11 @@ Nginx에 IP 단위 Rate Limit을 적용하고, 한도를 초과하면 `429 Too M
 
 #### 초기 화면
 
-<img src="./docs/images/CounselingFirstTab.png" alt="첫화면" width="900" />
+<img src="./docs/images/CounselingFirstTab.png" alt="첫화면" width="560" />
 
 #### 상담 화면
 
-<img src="./docs/images/CounselingTalk.png" alt="상담화면" width="900" />
+<img src="./docs/images/CounselingTalk.png" alt="상담화면" width="560" />
 
 ## 협업 방식
 
