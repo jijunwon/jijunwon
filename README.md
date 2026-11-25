@@ -75,7 +75,11 @@ Clients ──HTTPS:443──▶ Nginx ──proxy_pass:8080──▶ Spring Boo
 | 점수 저장 | 게임 종료 시 사용자별 기록 저장 |
 | 랭킹 조회 | 전체 랭킹 및 상위 N명 조회 |
 
+## 시연 영상
+#### 시연 연상
 ![데모](./docs/images/TetrisDemo.gif)
+#### 테마
+![테마](./docs/images/Thema.gif)
 
 ## API 설계
 
