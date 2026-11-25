@@ -273,7 +273,11 @@ Nginx에 Rate Limit을 적용하고, 한도를 초과하면 `429 Too Many Reques
 | RAG 상담 응답 | NIMH·NHS 공개 자료를 검색해 근거로 활용, 출처와 활용 조건 관리 |
 | 접근 범위 분리 | 일반 대화는 상담에서 참조, 상담 기록은 일반 대화 검색에서 제외 |
 
-![데모](./docs/images/counseling-demo.gif)
+## 데모
+#### 초기 화면
+![첫화면](./docs/images/CounselingFirstTab.png)
+#### 상담 화면
+![상담화면](./docs/images/CounselingTalk.png)
 
 ## 협업 방식
 
