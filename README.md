@@ -75,12 +75,13 @@ Clients ──HTTPS:443──▶ Nginx ──proxy_pass:8080──▶ Spring Boo
 | 점수 저장 | 게임 종료 시 사용자별 기록 저장 |
 | 랭킹 조회 | 전체 랭킹 및 상위 N명 조회 |
 
-## 시연 영상
-#### 시연 연상
+## 데모
+#### 플레이
 ![데모](./docs/images/TetrisDemo.gif)
 #### 테마
 ![테마](./docs/images/Thema.gif)
-
+#### 계정 생성 및 로그인
+![생성](./docs/images/SignIn.gif)
 ## API 설계
 
 JSON 기반 RESTful API로 통신하며, HTTP 메서드와 상태 코드로 요청·응답을 구분했습니다.
