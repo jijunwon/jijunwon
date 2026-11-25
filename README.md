@@ -80,17 +80,15 @@ Clients ──HTTPS:443──▶ Nginx ──proxy_pass:8080──▶ Spring Boo
 
 #### 플레이
 
-<img src="./docs/images/GamePlay.png" alt="play" width="560" />
+<img src="./docs/images/TetrisDemo.gif" alt="play" width="560" />
 
 #### 테마
 
-<img src="./docs/images/LightThema.png" alt="light" width="280" />
-<img src="./docs/images/DarkThema.png" alt="dark" width="280" />
-<img src="./docs/images/NeonThema.png" alt="neon" width="280" />
+<img src="./docs/images/Thema.gif" alt="light" width="280" />
 
 #### 계정 생성 및 로그인
 
-<img src="./docs/images/SignIn.png" alt="signin" width="900" />
+<img src="./docs/images/SignIn.gif" alt="signin" width="900" />
 
 ## API 설계
 
